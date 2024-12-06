@@ -1,0 +1,22 @@
+{
+  "animais": [
+    {
+      "id": 1,
+      "nome": "Leão",
+      "tipo": "Mamífero",
+      "habitat": "Savana"
+    },
+    {
+      "id": 2,
+      "nome": "Pinguim",
+      "tipo": "Ave",
+      "habitat": "Pólo Sul"
+    },
+    {
+      "id": 3,
+      "nome": "Cobra",
+      "tipo": "Réptil",
+      "habitat": "Floresta Tropical"
+    }
+  ]
+}
